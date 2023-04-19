@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeerJsonLocal</string>
+    <string name="titulo">Preguntas</string>
+    <string name="calificar">Calificar</string>
+    <string name="atras">Anterior</string>
+    <string name="adelante">Siguiente</string>
+</resources>
